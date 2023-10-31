@@ -32,7 +32,7 @@ def knn_classifier(x_train, y_train, x_test, y_test, n_neighbors=5):
 
 # Function to perform K-Fold cross-validation
 def k_fold_cross_validation(x, y, n_splits, shuffle=False, random_state=None):
-    kf = (n_splits=n_splits, shuffle=shuffle, random_state=random_state)
+    kf = KFold(n_splits=n_splits, shuffle=shuffle, random_state=random_state)
     return kf.split(x)
 
 
