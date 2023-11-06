@@ -1,11 +1,9 @@
-from sklearn import tree
-from sklearn.tree import DecisionTreeClassifier
-from sklearn.tree import export_text
+import matplotlib.pyplot as plt
+import numpy as np
 from sklearn.datasets import load_breast_cancer
 from sklearn.model_selection import learning_curve
 from sklearn.model_selection import validation_curve
-import matplotlib.pyplot as plt
-import numpy as np
+from sklearn.tree import DecisionTreeClassifier
 
 
 # Load dataset
