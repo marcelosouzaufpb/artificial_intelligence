@@ -1,0 +1,32 @@
+Atividade de Fixação 01 - Aprendizagem Supervisionada (Quiz)
+
+Questão 1 - Defina a ordem das etapas da aprendizagem supervisionada associando o quadro abaixo:
+
+* 1 Definir a tarefa 
+
+* 3 Definir a função de pontuação (score) / custo (cost function)
+
+* 4 Definir o método de otimização
+
+* 5 Encontrar uma função que descreva a relação entre X e Y
+
+* 2 Definir o algoritmo de aprendizagem
+
+
+Questão 2 - Em relação as aplicações de AM Supervisionada, relacione as colunas (Responda regressão ou classificação): 
+
+* Valor de Imóvel (Regressão)
+
+* Reconhecimento de caracteres em imagens (Classificação)
+
+* Detecção de operações fraudulentas (Classificação)
+
+* Valor de Ação (mercado financeiro) (Regressão)
+
+* Desgaste de uma peça (Regressão)
+
+* Filtragem de spams (Classificação)
+
+* Concessão de progressão de pena (Classificação)
+
+* Concessão de crédito (Classificação)
